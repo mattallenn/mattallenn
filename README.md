@@ -3,16 +3,16 @@
 mattallenn/mattallenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi, I'm Matt!
+## Hi, I'm Matt!
 
-> I code sometimes
+I code sometimes
 
 Please <a href="mailto:matthewallen442@gmail.com">Contact Me</a> if you have any inquiries
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/mattallenn)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/mattallenn)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddox05)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/mattallenn)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/mattallenn)
 
 ### OS
@@ -22,13 +22,13 @@ Please <a href="mailto:matthewallen442@gmail.com">Contact Me</a> if you have any
 
 <details>
 <p align="center">
-  <a href="https://github.com/maddox05">
+  <a href="https://github.com/mattallenn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattallenn&theme=vision_friendly_dark" />
   </a>
-  <a href="https://github.com/maddox05">
+  <a href="https://github.com/mattallenn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattallenn&theme=vision_friendly_dark&exclude={exclude}" />
   </a>
-  <a href="https://github.com/maddox05">
+  <a href="https://github.com/mattallenn">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mattallenn&theme=vision_friendly_dark&utcOffset=-4" />
   </a>
   
