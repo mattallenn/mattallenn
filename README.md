@@ -20,7 +20,7 @@ Please <a href="mailto:matthewallen442@gmail.com">Contact Me</a> if you have any
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/mattallenn)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/mattallenn)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/mattallenn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattallenn&theme=vision_friendly_dark" />
@@ -33,7 +33,7 @@ Please <a href="mailto:matthewallen442@gmail.com">Contact Me</a> if you have any
   </a>
   
 </p>
-</details>
+
 
 
 
